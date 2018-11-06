@@ -1,4 +1,4 @@
-(function($) {
+ (function($) {
     'use strict';
     var transition = window.mt.transition;
     var init = function($elem) {
