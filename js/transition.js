@@ -1,4 +1,4 @@
-(function () {
+ (function () {
 	var transitionEndEventName = {
 		transition: 'transitionend',
 		MozTransition: 'transitionend',
