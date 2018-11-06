@@ -31,7 +31,7 @@
         $elem.data('status', 'hide').trigger('hide');
         callback();
 
-    }
+    } 
 
     // 正常显示和隐藏
     var silent = {
